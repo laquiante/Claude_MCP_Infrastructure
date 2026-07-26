@@ -8,6 +8,6 @@ from pydantic import BaseModel, Field
 # C2950
 # C3620
 # C2611
-# 2511
+# C2511
 
 # minisforum workstation
